@@ -1,0 +1,5 @@
+com\hms\framework\AppTest.class
+com\test\PageObjcects\RegistrationPage.class
+com\test\PageObjcects\HomePage.class
+com\test\PageObjcects\LoginPage.class
+com\test\testcases\HMSTestcases.class

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [CrossBrowserTesting]">
+  <test name="Smoketest(failed)">
+    <parameter name="browserName" value="chrome"/>
+    <classes>
+      <class name="com.test.testcases.HMSTestcases">
+        <methods>
+          <include name="setup"/>
+          <include name="quit"/>
+          <include name="verifyLoginTest"/>
+        </methods>
+      </class> <!-- com.test.testcases.HMSTestcases -->
+    </classes>
+  </test> <!-- Smoketest(failed) -->
+</suite> <!-- Failed suite [CrossBrowserTesting] -->

@@ -1,0 +1,12 @@
+com\framework\readers\ExcelReader.class
+com\framework\utilities\TestListners.class
+com\framework\utilities\Zip.class
+com\framework\utilities\SendMailTLS.class
+com\hms\framework\App.class
+com\framework\readers\PropertyFileReader.class
+com\framework\utilities\SendMailTLS$1.class
+com\framework\core\CommonMethod.class
+com\framework\utilities\ReportsListners.class
+com\framework\utilities\Log4j.class
+com\framework\core\BaseClass.class
+com\framework\utilities\SMTPUtility.class

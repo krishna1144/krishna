@@ -1,0 +1,84 @@
+06 Sep 21:47:19,011 INFO - info message 
+06 Sep 21:47:19,014 ERROR - error messgage 
+06 Sep 22:00:50,578 INFO - initializing configuration 
+06 Sep 22:00:50,582 ERROR - Incorrect browser 
+06 Sep 22:00:50,582 INFO - Choosen browser as chrome1 
+06 Sep 22:01:56,411 INFO - initializing configuration 
+06 Sep 22:01:56,413 ERROR - Incorrect browser 
+06 Sep 22:02:24,761 INFO - initializing configuration 
+06 Sep 22:02:24,764 INFO - Choosen browser as chrome1 
+06 Sep 22:02:24,764 ERROR - Incorrect browser 
+06 Sep 22:02:53,017 INFO - initializing configuration 
+06 Sep 22:02:53,035 INFO - Choosen browser as chrome 
+06 Sep 22:03:16,405 INFO - Maximizing window 
+06 Sep 22:03:20,895 INFO - Navigating URL http://selenium4testing.com/hms/ 
+06 Sep 22:03:20,895 INFO - Loading config data from excel 
+06 Sep 22:03:26,693 INFO - clearing locator By.xpath: //input[@name='username'] 
+06 Sep 22:03:27,105 INFO - passing data to locator By.xpath: //input[@name='username'] 
+06 Sep 22:03:27,527 INFO - passing data to locator By.xpath: //input[@name='password'] 
+06 Sep 22:03:29,111 INFO - clicking on locator By.xpath: //input[@name='submit'] 
+06 Sep 22:03:31,946 INFO - clicking on locator By.linkText: Registration 
+06 Sep 22:03:32,805 INFO - clicking on locator By.xpath: html/body/div[2]/div/h3/a 
+07 Sep 21:41:54,950 INFO - initializing configuration 
+07 Sep 21:41:54,976 INFO - Choosen browser as chrome 
+07 Sep 21:42:21,344 INFO - Maximizing window 
+07 Sep 21:42:38,137 INFO - Navigating URL http://selenium4testing.com/hms/ 
+07 Sep 21:42:38,137 INFO - Loading config data from excel 
+07 Sep 21:42:54,499 INFO - clearing locator By.xpath: //input[@name='username'] 
+07 Sep 21:43:02,778 INFO - passing data to locator By.xpath: //input[@name='username'] 
+07 Sep 21:43:06,286 INFO - passing data to locator By.xpath: //input[@name='password'] 
+07 Sep 21:46:10,283 INFO - initializing configuration 
+07 Sep 21:46:10,286 INFO - Choosen browser as chrome 
+07 Sep 21:46:17,069 INFO - Maximizing window 
+07 Sep 21:46:18,557 INFO - Navigating URL http://selenium4testing.com/hms/ 
+07 Sep 21:46:18,557 INFO - Loading config data from excel 
+07 Sep 21:46:21,187 INFO - clearing locator By.xpath: //input[@name='username'] 
+07 Sep 21:46:21,446 INFO - passing data to locator By.xpath: //input[@name='username'] 
+07 Sep 21:46:21,821 INFO - passing data to locator By.xpath: //input[@name='password'] 
+07 Sep 21:46:26,897 ERROR - unable to find locator By.xpath: //input[@name='submit1'] 
+07 Sep 22:06:49,651 INFO - initializing configuration 
+07 Sep 22:06:49,682 INFO - Choosen browser as chrome 
+07 Sep 22:07:09,908 INFO - Maximizing window 
+07 Sep 22:07:12,456 INFO - Navigating URL http://selenium4testing.com/hms/ 
+07 Sep 22:07:12,459 INFO - Loading config data from excel 
+07 Sep 22:07:17,417 INFO - clearing locator By.xpath: //input[@name='username'] 
+07 Sep 22:07:17,757 INFO - passing data to locator By.xpath: //input[@name='username'] 
+07 Sep 22:07:18,121 INFO - passing data to locator By.xpath: //input[@name='password'] 
+07 Sep 22:07:23,203 ERROR - unable to find locator By.xpath: //input[@name='submit1'] 
+07 Sep 22:07:56,880 INFO - Closing browser 
+07 Sep 22:14:12,807 INFO - initializing configuration 
+07 Sep 22:14:12,811 INFO - Choosen browser as chrome 
+07 Sep 22:14:20,923 INFO - Maximizing window 
+07 Sep 22:14:23,566 INFO - Navigating URL http://selenium4testing.com/hms/ 
+07 Sep 22:14:23,568 INFO - Loading config data from excel 
+07 Sep 22:14:26,367 INFO - clearing locator By.xpath: //input[@name='username'] 
+07 Sep 22:14:26,666 INFO - passing data to locator By.xpath: //input[@name='username'] 
+07 Sep 22:14:26,972 INFO - passing data to locator By.xpath: //input[@name='password'] 
+07 Sep 22:14:28,404 INFO - clicking on locator By.xpath: //input[@name='submit'] 
+07 Sep 22:14:30,914 INFO - clicking on locator By.linkText: Registration 
+07 Sep 22:14:31,628 INFO - clicking on locator By.xpath: html/body/div[2]/div/h3/a 
+07 Sep 22:14:33,673 INFO - Closing browser 
+07 Sep 22:33:20,360 INFO - initializing configuration 
+07 Sep 22:33:20,363 INFO - Choosen browser as chrome 
+07 Sep 22:33:32,604 INFO - Maximizing window 
+07 Sep 22:33:35,146 INFO - Navigating URL http://selenium4testing.com/hms/ 
+07 Sep 22:33:35,147 INFO - Loading config data from excel 
+07 Sep 22:33:39,605 INFO - clearing locator By.xpath: //input[@name='username'] 
+07 Sep 22:33:40,268 INFO - passing data to locator By.xpath: //input[@name='username'] 
+07 Sep 22:33:40,617 INFO - passing data to locator By.xpath: //input[@name='password'] 
+07 Sep 22:33:42,130 INFO - clicking on locator By.xpath: //input[@name='submit'] 
+07 Sep 22:33:44,718 INFO - clicking on locator By.linkText: Registration 
+07 Sep 22:33:45,481 INFO - clicking on locator By.xpath: html/body/div[2]/div/h3/a 
+07 Sep 22:33:49,483 INFO - Closing browser 
+07 Sep 22:34:26,826 INFO - initializing configuration 
+07 Sep 22:34:26,828 INFO - Choosen browser as chrome 
+07 Sep 22:34:34,769 INFO - Maximizing window 
+07 Sep 22:34:38,673 INFO - Navigating URL http://selenium4testing.com/hms/ 
+07 Sep 22:34:38,673 INFO - Loading config data from excel 
+07 Sep 22:34:41,239 INFO - clearing locator By.xpath: //input[@name='username'] 
+07 Sep 22:34:41,534 INFO - passing data to locator By.xpath: //input[@name='username'] 
+07 Sep 22:34:41,833 INFO - passing data to locator By.xpath: //input[@name='password'] 
+07 Sep 22:34:43,217 INFO - clicking on locator By.xpath: //input[@name='submit'] 
+07 Sep 22:34:45,532 INFO - clicking on locator By.linkText: Registration 
+07 Sep 22:34:46,215 INFO - clicking on locator By.xpath: html/body/div[2]/div/h3/a 
+07 Sep 22:34:48,168 INFO - Closing browser 

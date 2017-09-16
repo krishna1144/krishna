@@ -1,0 +1,23 @@
+<suite name="CrossBrowserTesting" preserve-order="true" parallel="none" >
+   
+<test name="Smoketest" preserve-order="true">
+
+<parameter name="browserName" value="chrome"></parameter>
+
+<!-- <listeners>
+
+    <listener class-name="com.framework.utilities.TestListners" />
+    <listener class-name="com.framework.utilities.ReportsListners" />
+    
+ </listeners> -->
+ 
+
+<classes>
+
+<class name="com.test.testcases.HMSTestcases"></class> 
+      
+</classes>
+
+</test>
+
+</suite>
